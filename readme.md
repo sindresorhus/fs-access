@@ -1,8 +1,6 @@
 # fs-access [![Build Status](https://travis-ci.org/sindresorhus/fs-access.svg?branch=master)](https://travis-ci.org/sindresorhus/fs-access)
 
-> Node.js 0.12 [`fs.access()`](https://nodejs.org/api/fs.html#fs_fs_access_path_mode_callback) & [`fs.accessSync()`](https://nodejs.org/api/fs.html#fs_fs_accesssync_path_mode) ponyfill
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+> Node.js 0.12 [`fs.access()`](https://nodejs.org/api/fs.html#fs_fs_access_path_mode_callback) & [`fs.accessSync()`](https://nodejs.org/api/fs.html#fs_fs_accesssync_path_mode) [ponyfill](https://ponyfill.com)
 
 
 ## Install
