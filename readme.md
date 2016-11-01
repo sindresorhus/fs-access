@@ -41,9 +41,7 @@ try {
 
 See the [`fs.access()` & `fs.accessSync()` docs](https://nodejs.org/api/fs.html#fs_fs_access_path_mode_callback).
 
-Mode flags are on the `fsAccess` instance instead of `fs`.
-
-Only the `F_OK` mode is supported for now. [Help welcome for additional modes.](https://github.com/sindresorhus/fs-access/issues/1)
+Mode flags are on the `fsAccess` instance instead of `fs`. Only the `F_OK` mode is supported.
 
 
 ## License
