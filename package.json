@@ -1,6 +1,6 @@
 {
   "name": "fs-access",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Node.js 0.12 fs.access() & fs.accessSync() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/fs-access",
